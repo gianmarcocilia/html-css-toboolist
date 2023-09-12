@@ -47,6 +47,7 @@ header h1 {
     margin-top: 35px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
+}
 
 .button-t {
     color: white;
@@ -62,4 +63,61 @@ header h1 {
     border: solid 1px gray;
     padding: 6px 15px;
     border-radius: 5px;
+}
+
+/* List */
+.list-section {
+    height: 600px;
+    background-color: white;
+    margin-top: 2px;
+    padding: 25px 60px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+ul {
+    list-style: none;
+}
+
+li h3 {
+    margin-top: 30px;
+}
+
+li {
+    margin-top: 15px;
+}
+
+ul span {
+    color: white;
+    font-size: 10px;
+    display: inline-block;
+    width: 65px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.span-edit {
+    background-color:rgb(71 173 241);
+}
+
+.span-q1 {
+    background-color: blueviolet;
+}
+
+.span-recru {
+    background-color: green;
+}
+
+.span-mobile {
+    background-color: orange;
+}
+
+.span-website {
+    background-color: palevioletred;
+}
+
+.span-sales {
+    background-color: aquamarine;
 }
