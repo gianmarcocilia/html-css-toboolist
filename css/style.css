@@ -67,7 +67,7 @@ header h1 {
 
 /* List */
 .list-section {
-    height: 600px;
+    height: 550px;
     background-color: white;
     margin-top: 2px;
     padding: 25px 60px;
@@ -84,7 +84,7 @@ li h3 {
 }
 
 li {
-    margin-top: 15px;
+    margin-top: 10px;
 }
 
 ul span {
@@ -124,7 +124,7 @@ ul span {
 
 .span-check {
     color: lightseagreen;
-    font-size: 15px;
+    font-size: 10px;
     display: inline-block;
     width: 20px;
     height: 20px;
@@ -136,7 +136,7 @@ ul span {
 
 .span-cross {
     color: red;
-    font-size: 15px;
+    font-size: 10px;
     display: inline-block;
     width: 20px;
     height: 20px;
