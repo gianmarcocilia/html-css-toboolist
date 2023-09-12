@@ -16,6 +16,8 @@ body {
     margin: 0 auto;
 }
 
+/* HEADER */
+
 header {
     
     padding: 0px 20px;
@@ -32,4 +34,32 @@ header {
 header h1 {
     display: inline-block;
     font-size: 35px;
+}
+
+/* MAIN */
+/* Button */
+
+.button-section {
+    height: 50px;
+    line-height: 45px;
+    padding: 5px 40px;
+    background-color: white;
+    margin-top: 35px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+.button-t {
+    color: white;
+    background-color: rgb(71 173 241);
+    border: none;
+    padding: 6px 15px;
+    border-radius: 5px;
+}
+
+.button-s {
+    color: gray;
+    background-color: white;
+    border: solid 1px gray;
+    padding: 6px 15px;
+    border-radius: 5px;
 }
